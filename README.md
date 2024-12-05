@@ -1,2 +1,2 @@
-# hello-world-app-Task-1-
+# HELLO_WORLD_APPLICATION
 This repo is a simple hello World application
